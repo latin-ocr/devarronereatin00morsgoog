@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devarronereatin00morsgoog_0002.png"; bbox 0 0 1369 1619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 52 489 131">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 52 489 131">
+     <span class='ocr_line' id='line_1_1' title="bbox 306 52 489 75; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 306 53 337 74; x_wconf 90' lang='lat' dir='ltr'>Lv</span> <span class='ocrx_word' id='word_1_2' title='bbox 356 53 387 74; x_wconf 89' lang='lat'>11</span> <span class='ocrx_word' id='word_1_3' title='bbox 395 52 455 75; x_wconf 84' lang='lat'>.209</span> <span class='ocrx_word' id='word_1_4' title='bbox 462 52 489 75; x_wconf 89' lang='grc'>,5</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 304 110 405 131; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 304 110 405 131; x_wconf 80' lang='lat' dir='ltr'>MORSCH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 304 196 672 280">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 304 196 672 280">
+     <span class='ocr_line' id='line_1_3' title="bbox 304 196 608 218; baseline 0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 304 197 337 217; x_wconf 86' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 354 196 472 218; x_wconf 74' lang='lat' dir='ltr'>VARRONE</span> <span class='ocrx_word' id='word_1_8' title='bbox 489 196 608 218; x_wconf 74' lang='lat' dir='ltr'>REATINO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 304 224 672 247; baseline 0.003 -2"><span class='ocrx_word' id='word_1_9' title='bbox 304 224 420 246; x_wconf 79' lang='lat' dir='ltr'><strong>AUCTORE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 443 226 472 247; x_wconf 80' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_11' title='bbox 489 225 638 246; x_wconf 77' lang='lat' dir='ltr'>GEORGICIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 657 224 672 246; x_wconf 83' lang='lat' dir='ltr'>A</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 305 253 591 280; baseline 0.003 -6"><span class='ocrx_word' id='word_1_13' title='bbox 305 253 440 280; x_wconf 82' lang='lat' dir='ltr'>VERGILIQ</span> <span class='ocrx_word' id='word_1_14' title='bbox 455 253 591 275; x_wconf 69' lang='lat' dir='ltr'>EXPRESSO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 423 302 438 328">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 423 302 438 328">
+     <span class='ocr_line' id='line_1_6' title="bbox 423 302 438 328; baseline 0 -10"><span class='ocrx_word' id='word_1_15' title='bbox 423 302 438 328; x_wconf 23' lang='lat' dir='ltr'>q(</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1369 1619">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1369 1619">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1369 1619; baseline 0 11"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1369 1619; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
